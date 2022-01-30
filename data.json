@@ -1,0 +1,185 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productName":"Adids Orignal Shoes",
+            "categoryName":"man",
+            "companyName":"Addis",
+            "WatchChecked":false,
+            "priceProduct":60.9,
+            "imageSrc":"https://pa.namshicdn.com/product/A5/27635W/1-mobile-web-catalog.webp",
+            "Discription":"Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves .Born between the two world wars, Beryl Cook eventually left Kendrick School in Reading at the age of 15, where she went to secretarial school and then into an insurance office. After moving to London and then Hampton, she eventually married her next door neighbour from Reading,",
+            "Quantity":0
+        },
+        {
+            "id":2,
+            "productName":"Nike Shoes",
+            "companyName":"Nike",
+            "categoryName":"man",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/79/7773/v1/1-mobile-web-catalog.webp",
+            "priceProduct":100.9,
+            "Discription":" He was an officer in the Merchant Navy and after he left the sea in 1956, they bought a pub for a year before John took a job in Southern Rhodesia with a motor company. Beryl bought their young son a box of watercolours, and when showing him how to use it",
+            "Quantity":0
+        },
+        {
+            "id":3,
+            "productName":"Movodoo",
+            "categoryName":"man",
+            "companyName":"Nike",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A7/144401W/1-mobile-web-catalog.webp",
+            "priceProduct":80.9,
+            "Discription":" she decided that she herself quite enjoyed painting. John subsequently bought her a child’s painting set for her birthday and it was with this that she produced her first significant work, a half-length portrait of a dark-skinned ",
+            "Quantity":0
+        },
+        {
+            "id":4,
+            "productName":"Police watch",
+            "imageSrc":"https://pa.namshicdn.com/product/A7/151401W/1-mobile-web-catalog.webp",
+            "categoryName":"man",
+            "companyName":"Nike",
+            "WatchChecked":false,
+            "priceProduct":110.5,
+            "Discription":"John subsequently bought her a child’s painting set for her birthday and it was with this that she produced her first significant work, a half-length portrait of a dark-skinned lady with a vacant expression and large drooping breasts. It was aptly named ‘Hangover’ by Beryl’s husband and",
+            "Quantity":0
+        },
+        {
+            "id":5,
+            "productName":"Ray-Ben",
+            "categoryName":"man",
+            "companyName":"Marco",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A5/10206W/v2/1-mobile-web-catalog.webp",
+            "priceProduct":90.9,
+            "Discription":"Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves .Born between the two world wars, Beryl Cook eventually left Kendrick School in Reading at the age of 15, where she went to secretarial school and then into an insurance office. After moving to London and then Hampton, she eventually married her next door neighbour from Reading,",
+            "Quantity":0
+        },
+
+        {
+            "id":6,
+            "productName":"wide leg geans",
+            "categoryName":"Woman",
+            "companyName":"Marco",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/B9/BKDA8801DC/2-mobile-web-catalog.webp",
+            "priceProduct":80.9,
+            "Discription":"John subsequently bought her a child’s painting set for her birthday and it was with this that she produced her first significant work, a half-length portrait of a dark-skinned lady with a vacant expression and large drooping breasts. It was aptly named ‘Hangover’ by Beryl’s husband and",
+            "Quantity":0
+        },
+        {
+            "id":7,
+            "productName":"Rached detail dress",
+            "companyName":"Velo",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A5/99179W/1-mobile-web-catalog.webp",
+            "categoryName":"Woman",
+            "priceProduct":120.9,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },
+        {
+            "id":8,
+            "productName":"Diamond shine Neacklace",
+            "categoryName":"Woman",
+            "companyName":"Velo",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A8/799501W/v1/1-mobile-web-catalog.webp",
+            "priceProduct":30.9,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },
+        {
+            "id":9,
+            "productName":"wide leg pants",
+            "categoryName":"Woman",
+            "companyName":"Velo",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/5Y/6THD8801DC/4-mobile-web-product.webp",
+            "priceProduct":689,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },       
+        {
+            "id":10,
+            "productName":"MakeUp forever",
+            "categoryName":"Woman",
+            "companyName":"Velo",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A3/59128W/1-mobile-web-catalog.webp",
+            "priceProduct":555,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },  
+
+        {
+            "id":11,
+            "productName":"Youth Adicolor T-Shirt",
+            "categoryName":"Kids",
+            "companyName":"Xomi",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A6/47194W/v3/1-mobile-web-catalog.webp",
+            "priceProduct":234,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },       
+        {
+            "id":12,
+            "productName":"Kids Big Logo Sweatpants",
+            "categoryName":"Kids",
+            "companyName":"Xomi",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/A4/392521W/v1/1-mobile-web-catalog.webp",
+            "priceProduct":333,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },       
+        {
+            "id":13,
+            "productName":"Printed Jogger Sweatpants Tie Waist",
+            "categoryName":"Kids",
+            "companyName":"Addis",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/15/62DA6N300PM/v3/1-mobile-web-catalog.webp",
+            "priceProduct":456,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        },       
+        {
+            "id":14,
+            "productName":"Kids Cuffed Sweatpants",
+            "categoryName":"Kids",
+            "companyName":"Addis",
+            "WatchChecked":false,
+            "imageSrc":"https://pa.namshicdn.com/product/6P/7BBB8801DC/4-mobile-web-product.webp",
+            "priceProduct":122,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            "Quantity":0
+        }
+    ],
+
+    "categories":[
+        {
+            
+            "id":1,
+            "categoryName":"man"
+        },
+        {
+            
+            "id":2,
+            "categoryName":"Woman"
+        },
+        {
+            
+            "id":3,
+            "categoryName":"Kids"
+        }
+    ],
+
+    "auth":[
+        {
+            "userName":"manager",
+            "password":"#manger"
+        }
+    ]
+}
