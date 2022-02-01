@@ -162,17 +162,23 @@
         {
             
             "id":1,
-            "categoryName":"man"
+            "categoryName":"man",
+            "imageSrc":"https://mazeshirts.com/wp-content/uploads/2022/01/a-man-cannot-survive-on-beer-alone-he-needs-rc-planes-as-well-sweatshirt.jpg" ,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
         },
         {
             
             "id":2,
-            "categoryName":"Woman"
+            "categoryName":"Woman",
+            "imageSrc":"https://www.bridesmaidca.ca/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/H/T/HT23-03/HT23-Princess-Strapless-Long-Dark-Lilac-Tulle-Flower-Girl-Dress-34.jpg" ,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
         },
         {
             
             "id":3,
-            "categoryName":"Kids"
+            "categoryName":"Kids",
+            "imageSrc":"https://www.craftinessisnotoptional.com/wp-content/uploads/2019/09/MZ7A3756.jpg" ,
+            "Discription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
         }
     ],
 
